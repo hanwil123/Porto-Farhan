@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body .bgbg {
+    background: rgb(97,67,133);
+    background: linear-gradient(90deg, rgba(97,67,133,1) 0%, rgba(74,74,77,1) 100%);
+}
+body .bgabout {
+    background: rgb(57,4,77);
+    background: linear-gradient(90deg, rgba(57,4,77,1) 0%, rgba(121,117,148,1) 100%);
+}
+body .bgskill {
+    background: rgb(4,77,64);
+    background: linear-gradient(90deg, rgba(4,77,64,1) 0%, rgba(185,10,10,1) 100%);
+}
+body .bgprojek {
+    background: rgb(0,4,40);
+background: linear-gradient(90deg, rgba(0,4,40,1) 0%, rgba(0,78,146,1) 100%);
+}
+body .bgcontact {
+    background: rgb(170,7,107);
+    background: linear-gradient(90deg, rgba(170,7,107,1) 0%, rgba(97,4,95,1) 100%);
+}
