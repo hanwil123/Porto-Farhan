@@ -14,19 +14,17 @@ const Home = () => {
             </p>
             <div className=" w-60 h-1 bg-yellow-300 mb-5"></div>
             <p className=" text-black text-xl">
-              I am a driven and adaptable Junior Fullstack Developer skilled in
-              creating dynamic, responsive web and Android applications. With
-              expertise in React.js for modern user interfaces and Flutter for
-              mobile development, I craft seamless user experiences. My
-              front-end designs leverage Tailwind CSS, DaisyUI, and Flowbite for
-              clean and visually compelling layouts. On the backend, I
-              specialize in Golang and Laravel, delivering scalable and robust
-              solutions tailored to client needs. I am passionate about
-              learning, detail-oriented, and eager to tackle real-world
-              projects. Notable experience includes collaborating as a Frontend
-              Developer in Hackfest 2022, building interfaces and working with
-              back-end teams on a web app to assess student focus levels. Let’s
-              work together to bring your vision to life!
+              I’m a versatile Junior Fullstack Developer skilled in building
+              responsive web and mobile apps. I use React.js and Flutter to
+              create seamless user experiences, with clean designs powered by
+              Tailwind CSS, DaisyUI,Flowbite for website and material design for
+              android apps. On the backend, I work with Golang and Laravel to
+              deliver scalable solutions for creating all feature program. I
+              love learning, pay attention to details, and enjoy solving
+              real-world problems. I also worked as a Frontend Developer during
+              Hackfest 2022, helping build a web app to track student focus
+              levels. Let’s bring your ideas to life! Let’s bring your ideas to
+              life!
             </p>
           </div>
           <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mb-10 md:mb-0 h-screen flex justify-center">
@@ -38,7 +36,7 @@ const Home = () => {
                 Experience in Hackfest
               </h1>
               <h1 class="title-font lg:text-4xl md:text-xl sm:text-xl mb-10 font-mono text-gray-900 font-bold">
-                2
+                1
               </h1>
             </div>
             <div className=" flex flex-col text-center lg:ml-14 md:ml-10">
@@ -54,12 +52,12 @@ const Home = () => {
                 Backend Dev Staff Smarter
               </h1>
               <h1 class="title-font lg:text-4lg md:text-lg sm:text-lg mb-10 font-mono text-gray-900 font-bold">
-                2 April 2024 - 2 September 202
+                25 April 2024 - 25 Oktober 2024
               </h1>
             </div>
             <div className=" flex flex-col text-center lg:ml-10 md:ml-10">
               <h1 class="title-font lg:text-lg md:text-lg sm:text-lg mb-3 font-mono text-gray-900 font-bold">
-                Assistant Lab Lepkom Gunadarma
+              laboratory assistant Lepkom Gunadarma
               </h1>
               <h1 class="title-font lg:text-4lg md:text-lg sm:text-lg mb-20 font-mono text-gray-900 font-bold">
                 September 2024 - March 2025
